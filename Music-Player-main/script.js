@@ -40,7 +40,7 @@ const music_list = [
         music : 'music/raataan.mp3'
     },
     {
-        img : 'images/aankhein.jpg',
+        img : 'images/aankhein.jpeg',
         name : 'Aankhein Khuli',
         artist : 'Lata Mangeshkar, Udit Narayan',
         music : 'music/aankhein.mp3'
